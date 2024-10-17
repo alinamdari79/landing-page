@@ -1,0 +1,24 @@
+.navbar {
+  width: 305px;
+  height: 45px;
+  margin-top: 50px;
+  margin-left: 35px;
+}
+.header-menu {
+  width: 200px;
+  height: 31.06px;
+  margin-top: 6px;
+  line-height: 0;
+}
+.header-menu__text {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  color: aliceblue;
+}
+.header-menu__line {
+  width: 79.68px;
+  margin-left: 0;
+  margin-top: 0;
+  border: 2.39px solid #17C2EC
+}
