@@ -8,4 +8,8 @@ body {
   margin-top: 0;
   background-image: url(./assets/image/unsplash_SfDofjXtxHE.svg);
 }
+html {
+  display: flex;
+  justify-content: center;
+}
   

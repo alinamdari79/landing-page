@@ -1,8 +1,9 @@
 .navbar {
+  display: flex;
   width: 305px;
   height: 45px;
   margin-top: 50px;
-  margin-left: 35px;
+  margin-left: 25px;
 }
 .header-menu {
   width: 200px;
@@ -22,3 +23,133 @@
   margin-top: 0;
   border: 2.39px solid #17C2EC
 }
+.burger-menu__toggle {
+  margin-left: 20px;
+  margin-top: 12px;
+  height: 35px;
+  width: 35px;
+}
+.burger-menu__box__list {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin-left: 150px;
+  margin-top: 25px;
+  gap: 35px;
+}
+.burger-menu__box__list li {
+  width: auto;
+}
+.burger-menu__box__list__links {
+  color: #FFFFFF;
+  text-decoration: none;
+  opacity: 50%;
+}
+.burger-menu__box__list__home {
+  color: #FFFFFF;
+  text-decoration: none;
+  opacity: 100%;
+}
+.burger-menu__box__list__circle {
+  margin-left: 20px;
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: #17C2EC;
+}
+.burger-menu__btn {
+  width: 150px;
+  height: 50px;
+  margin-top: 15px;
+  margin-left: 200px;
+  padding: -10px;
+  border: none;
+  border-radius: 10px;
+  background-color: #C4C4C41A;
+}
+.burger-menu__btn__text {
+  color: #17C2EC;
+  font-weight: bolder;
+}
+.group-85 {
+  margin-top: 30px;
+  margin-left: 25px;
+  width: 276px;
+}
+.group-85__vaccinate {
+  color: #17C2EC;
+  font-weight: normal;
+  font-size: 12px;
+}
+.group-85__header {
+  height: 87px;
+  color:  #FFFFFF;
+}
+.group-85__header span {
+  color: #17C2EC;
+}
+.group-85__para {
+  color: #FFFFFF;
+  opacity: 70%;
+  font-size: 14px;
+  line-height: 17px;
+}
+.group-85__button {
+  width: 296px;
+  height: 50px;
+  font-weight: bolder;
+}
+.group-85__button__1 {
+  width: 128px;
+  height: 50px;
+  border-radius: 20px;
+  border: none;
+  background-color: #17C2EC;
+  color: #FFFFFF;
+}
+.group-85__button__2 {
+  width: 128px;
+  height: 50px;
+  margin-left: 15px;
+  border-radius: 20px;
+  background-color: #C4C4C41A;
+  color: #FFFFFF;
+  border: 2px solid #17C2EC;
+}
+.group-22__img {
+  margin-top: 30px;
+}
+.group-16 {
+  width: 306px;
+height: 292px;
+margin-left: 34px;
+}
+.group-16__gp6 {
+  display: flex;
+}
+.group-16__gp6__img {
+  width: 29.98px;
+  height: 30px;
+}
+.group-16__gp6__para {
+  width: 199px;
+  height: 17px;
+  margin-top: 8px;
+  margin-left: 10px;
+  line-height: 17.07px;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.group-16__gp15 {
+
+}
+.group-16__gp15__rectangle5 {
+  width: 305px;
+  height: 242px;
+  
+  border-radius: 20px 20px 0px 0px;
+  color: #C4C4C40D;
+
+}
+
