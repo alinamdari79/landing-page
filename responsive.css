@@ -8,7 +8,7 @@
    
 }
 
-@media screen and (min-width: 750px) and (max-width: 1280px){
+@media screen and (min-width: 750px) and (max-width: 1180px){
     .navbar {
       width: 668px;
       height: 45px;
@@ -57,9 +57,73 @@
       width: 622px;
       height: 617px;
     }
+    .group-16__gp6 {
+      width: 405px;
+      height: 50px;
+    }
+    .group-16__gp6__img {
+      width: 50px;
+      height: 50px;
+    }
+    .group-16__gp6__para {
+      width: 335px;
+      font-size: 24px;
+      color: #FFFFFF;
+      margin: auto;
+      margin-left: 20px;
+    }
+    .group-16__gp15__rectangle5 {
+      width: 669px;
+      margin-top: 20px;
+    }
+    .group-16__gp15__rectangle5__rectangle4 {
+      width: 668px;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14 {
+      width: 657.49px;
+      height: 149px;
+      margin-top: 37px;
+      margin-left: 11px;
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__gp11 {
+      width: 316.76px;
+      height: 54px;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__gp12 {
+      width: 290.78px;
+      height: 54px;
+      margin-top: 0;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__gp13 {
+      width: 232.82px;
+      height: 54px;
+      margin-top: 0;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__btn {
+      width: 253px;
+      height: 64px;
+      margin-top: 0;
+      margin-left: 84px;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__gp11__gp10 {
+      width: 250px;
+      margin-left: 20px;
+      font-size: 20px;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14 img {
+      width: 50px;
+      height: 50px;
+    }
+    .group-16__vaccine-types {
+      width: 100%;
+      height: 80px;
+      margin-top: 30px;
+    }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1180px) {
     .navbar {
       width: 1200px;
       height: 69px;
@@ -115,5 +179,70 @@
     .group-22__img {
       width: 522px;
       height: 517px;
+    }
+    .group-16__gp6 {
+      width: 500px;
+    }
+    .group-16__gp6__img {
+      width: 50px;
+      height: 50px;
+    }
+    .group-16__gp6__para {
+      width: 335px;
+      font-size: 24px;
+      color: #FFFFFF;
+      margin: 20px;
+      margin-left: 20px;
+    }
+    .group-16__gp15__rectangle5 {
+      width: 1150px;
+      height:160px;
+      margin-top: 20px;
+    }
+    .group-16__gp15__rectangle5__rectangle4 {
+      width: 1150px;
+      height: 150px;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14 {
+      width: 1100px;
+      height: 119px;
+      margin-top: 37px;
+      margin-left: 30px;
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__gp11 {
+      width: 316.76px;
+      height: 58px;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__gp12 {
+      width: 290.78px;
+      height: 58px;
+      margin-top: 0;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__gp13 {
+      width: 232.82px;
+      height: 58px;
+      margin-top: 0;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__btn {
+      width: 142px;
+      height: 69px;
+      margin-top: 0;
+      font-size: 20px;
+      margin-left: 30px;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14__gp11__gp10 {
+      width: 230px;
+      margin-left: 20px;
+      font-size: 20px;
+    }
+    .group-16__gp15__rectangle5__rectangle4__gp14 img {
+      width: 50px;
+      height: 50px;
+    }
+    .group-16__vaccine-types {
+      width: 100%;
+      margin-top: -42px;
     }
 }

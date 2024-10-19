@@ -122,8 +122,8 @@
 }
 .group-16 {
   width: 306px;
-height: 292px;
-margin-left: 34px;
+  height: 280px;
+  margin-left: 34px;
 }
 .group-16__gp6 {
   display: flex;
@@ -147,9 +147,68 @@ margin-left: 34px;
 .group-16__gp15__rectangle5 {
   width: 305px;
   height: 242px;
-  
   border-radius: 20px 20px 0px 0px;
-  color: #C4C4C40D;
-
 }
-
+.group-16__gp15__rectangle5__rectangle4 {
+  position: absolute;
+  height: 231px;
+  width: 305px;
+  margin-top: 11px;
+  border-radius: 20px 20px 0px 0px;
+}
+.group-16__gp15__rectangle5__rectangle4__gp14 {
+  position: absolute;
+  width: 203.28px;
+  height: 131px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.group-16__gp15__rectangle5__rectangle4__gp14__gp11 {
+  width: 190px;
+  height: 34px;
+  display: flex;
+}
+.group-16__gp15__rectangle5__rectangle4__gp14__gp12 {
+  width: 190px;
+  height: 34px;
+  margin-top: 10px;
+  display: flex;
+}
+.group-16__gp15__rectangle5__rectangle4__gp14__gp13 {
+  width: 190px;
+  height: 34px;
+  margin-top: 10px;
+  display: flex;
+}
+.group-16__gp15__rectangle5__rectangle4__gp14__gp11__gp10 {
+  width: 150px;
+  margin-left: 20px;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+}
+.group-16__gp15__rectangle5__rectangle4__gp14 img {
+  width: 30px;
+  height: 30px;
+}
+.group-16__gp15__rectangle5__rectangle4__gp14__gp11__gp10__1 {
+ color:  #FFFFFF80;
+}
+.group-16__gp15__rectangle5__rectangle4__gp14__gp11__gp10__2 {
+  color: #FFFFFF;
+}
+.group-16__gp15__rectangle5__rectangle4__gp14__btn {
+  width: 150px;
+  height: 50px;
+  padding: 20px 25px 20px 25px;
+  border-radius: 10px;
+  background-color: #17C2EC;
+  color:  #FFFFFF;
+  font-size: 14px;
+  margin-top: 20px;
+  border: none;
+  padding: 0;
+}
+.group-16__vaccine-types {
+  width: 100%;
+}
