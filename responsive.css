@@ -121,6 +121,53 @@
       height: 80px;
       margin-top: 30px;
     }
+    .group-30 {
+      width: 667px;
+      height: 482px;
+      margin-top: 57px;
+      margin-left: 50px;
+    }
+    .group-30__gp29 {
+      height: 55px;
+    }
+    .group-30__gp29__para {
+      width: 471px;
+      padding-top: 20px;
+      margin-left: 100px;
+      font-size: 20px;
+    }
+    .group-30__gp27 {
+      width: 447.67px;
+      height: 242px;
+      margin-top: 40px;
+      margin-left: 109px;
+    }
+    .group-30__gp27__gp25 {
+      width: 420px;
+      height: 69px;
+    }
+    .group-30__gp27__gp26 {
+      width: 420px;
+      height: 69px;
+    }
+    .group-30__gp27__get-vaccine {
+      width: 172.1px;
+      height: 64px;
+    }
+    .group-30__gp28 {
+      width: 538px;
+      height: 50px;
+      border-radius: 20px;
+      margin-left: 61px;
+      text-align: center;
+    }
+    .group-30__gp28__para {
+      width: 455px;
+      height: 17px;
+      margin-left: 33px;
+      padding-top: 18px;
+      font-size: 14px;
+    }
 }
 
 @media screen and (min-width: 1180px) {
@@ -244,5 +291,53 @@
     .group-16__vaccine-types {
       width: 100%;
       margin-top: -42px;
+    }
+    .group-30 {
+      width: 1100px;
+      height: 340px;
+      margin-top: 62px;
+      margin-left: 71px;
+    }
+    .group-30__gp29 {
+      height: 101px;
+    }
+    .group-30__gp29__para {
+      width: 560px;
+      padding-top: 30px;
+      margin-left: 43px;
+      font-size: 24px;
+    }
+    .group-30__gp27 {
+      width: 1014px;
+      height: 69px;
+      top: 35px;
+      margin-left: 43px;
+    }
+    .group-30__gp27__gp25 {
+      width: 370px;
+      height: 69px;
+    }
+    .group-30__gp27__gp26 {
+      margin-left: 20px;
+      width: 370px;
+      height: 69px;
+    }
+    .group-30__gp27__get-vaccine {
+      margin-left: 20px;
+      width: 150px;
+      height: 69px;
+    }
+    .group-30__gp28 {
+      width: 1014px;
+      height: 70px;
+      margin-left: 43px;
+      text-align: center;
+    }
+    .group-30__gp28__para {
+      width: 765px;
+      height: 29px;
+      margin-left: 123px;
+      padding-top: 18px;
+      font-size: 24px;
     }
 }

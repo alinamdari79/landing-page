@@ -141,9 +141,7 @@
   font-size: 14px;
   color: #FFFFFF;
 }
-.group-16__gp15 {
 
-}
 .group-16__gp15__rectangle5 {
   width: 305px;
   height: 242px;
@@ -211,4 +209,74 @@
 }
 .group-16__vaccine-types {
   width: 100%;
+}
+.group-30 {
+  width: 305px;
+  height: 381px;
+  margin-top: 120px;
+  margin-left: 35px;
+  border-radius: 20px;
+}
+.group-30__gp29 {
+  height: 40px;
+  border-radius: 20px 20px 0 0;
+}
+.group-30__gp29__para {
+  width: 243.8px;
+  margin-left: 30px;
+  padding-top: 10px;
+  color: #FFFFFF;
+  font-size: 10px;
+}
+.group-30__gp27 {
+  width: 280px;
+  height: 190px;
+  margin-top: 27px;
+  margin-left: 6.5px;
+}
+.group-30__gp27__gp25 {
+  width: 260px;
+  height: 50px;
+  border-radius: 20px;
+  border: 3px solid #17C2EC;
+  background-color: #C4C4C41A;
+  color: #FFFFFF;
+  padding-left: 20px;
+}
+.group-30__gp27__gp26 {
+  width: 260px;
+  height: 50px;
+  margin-top: 20px;
+  border-radius: 20px;
+  border: 3px solid #C4C4C426;
+  background-color: #C4C4C41A;
+  color: #FFFFFF;
+  padding-left: 20px;
+}
+.group-30__gp27__get-vaccine {
+  width: 150px;
+  height: 50px;
+  margin-top: 20px;
+  padding: 20px 25px 20px 25px;
+  border-radius: 20px;
+  background-color:#C4C4C41A;
+  border: 3px solid #17C2EC;
+  color:#17C2EC;
+  padding: 0;
+}
+.group-30__gp28 {
+  width: 280px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 13px;
+  left: 35px;
+  border-radius: 10px;
+  text-align: center;
+}
+.group-30__gp28__para {
+  margin-left: 20px;
+  width: 240px;
+  font-size: 10px;
+  color: #17C2EC;
+  padding-top: 10px;
 }
